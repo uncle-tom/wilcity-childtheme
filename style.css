@@ -10,5 +10,9 @@
 
 
 body {
-	background: red !important;
+	background: red;
+}
+
+.header_module__Snpib .wil-tb__cell:nth-child(1) {
+	width: auto;
 }
